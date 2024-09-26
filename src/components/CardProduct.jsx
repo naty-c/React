@@ -1,4 +1,4 @@
-import './cardProduct.css'
+import './CardProduct.css'
 import './Header.css'
 
 function cardProduct({ model, price, imgSrc }) {
